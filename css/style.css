@@ -13,12 +13,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #d48958;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #d48958
   text-decoration: none;
 }
 
@@ -41,7 +41,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -55,7 +55,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #c05fa3;
+  background: #ffffff;
   color: #fff;
 }
 
@@ -308,7 +308,7 @@ section {
 }
 
 .section-bg {
-  background: #ebc3a0;
+  background: #ffe0c4;
 }
 
 .section-title {
@@ -408,21 +408,21 @@ section {
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #122f57;
+  color: #d48958;
 }
 
 .facts .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #122f57;
+  color: #d48958;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
 .facts .count-box a:hover {
-  color: #1f5297;
+  color: #d48958;
 }
 
 /*--------------------------------------------------------------
@@ -459,7 +459,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #d48958;
 }
 
 /*--------------------------------------------------------------
@@ -492,7 +492,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #ebc3a0;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -555,7 +555,7 @@ section {
 
 .portfolio #portfolio-filters li:hover,
 .portfolio #portfolio-filters li.filter-active {
-  color: #149ddd;
+  color: #d48958;
 }
 
 .portfolio #portfolio-filters li:last-child {
@@ -571,7 +571,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.5);
+  background: #d48958(255, 255, 255, 0.5);
   position: absolute;
   left: 0;
   right: 0;
@@ -598,17 +598,17 @@ section {
   color: #fff;
   font-size: 28px;
   text-align: center;
-  background: rgba(20, 157, 221, 0.75);
+  background: rgba(255, 183, 131, 0.75);
   transition: 0.3s;
   width: 50%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(20, 157, 221, 0.95);
+  background: rgba(255, 183, 131, 0.75);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a+a {
-  border-left: 1px solid #37b3ed;
+  border-left: 1px solid #d48958;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -645,11 +645,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid #d48958;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: #d48958;
 }
 
 .portfolio-details .portfolio-info {
@@ -703,10 +703,10 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #d48958;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #149ddd;
+  border: 1px solid #d48958;
 }
 
 .services .icon i {
@@ -720,7 +720,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #149ddd;
+  color: #d48958;
 }
 
 .services .title {
