@@ -735,7 +735,7 @@ section {
 }
 
 .services .title a:hover {
-  color: #149ddd;
+  color: #d48958;
 }
 
 .services .description {
@@ -829,11 +829,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid #d48958;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: #d48958;
 }
 
 /*--------------------------------------------------------------
@@ -852,7 +852,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #d48958;
   float: left;
   width: 44px;
   height: 44px;
@@ -876,7 +876,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: #d48958;
 }
 
 .contact .info .email p {
