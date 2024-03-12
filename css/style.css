@@ -998,7 +998,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #149ddd;
+  background: #d48958;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1007,7 +1007,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #37b3ed;
+  background: #d48958;
 }
 
 @keyframes animate-loading {
